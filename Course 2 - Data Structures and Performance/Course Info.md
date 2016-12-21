@@ -40,5 +40,48 @@
 * Use runtimes from a real system to reason about performance
 
 ## Interfaces, Linked Lists vs. Arrays, and Correctness
+* Explain the idea of abstraction and why it is important
+* Give an example of abstraction in the real world and in Java
+* Describe the difference between an Abstract Data Type (ADT) and a Data Structure
+* Describe and draw the structure of a LinkedList
+* Describe an advantage of a LinkedList over an ArrayList
+* Implement Generic classes in Java
+* Throw Exceptions to indicate errors
+* Implement a doubly linked list with sentinel nodes in Java
+* Explain the value of having confidence in your code
+* Identify ways to build confidence in code correctness
+* Describe different testing practices
+* Compare advantages in testing methodologies
+* Write tests for a LinkedList
+* Explain how Markov processes can be used to generate text
+* Distinguish between training on text and generating text
+
 ## Trees! (including Binary Search Trees and Tries)
+* Describe the value of trees
+* Describe a Tree Data Structure
+* Author a TreeNode class
+* Explain the need to visit data in different orderings
+* Perform and author a preorder traversal
+* Perform in-order, post-order and level-order traversals
+* Define a Binary Search Tree
+* Identify valid Binary Search Trees
+* Perform Search in a Binary Search Tree
+* Insert an item into a Binary Search Tree
+* Delete an item from a Binary Search Tree
+* Explain the running time performance to find an item in a BST
+* Compare the performance of linked lists and BSTs
+* Explain what a trie data structure is
+* Describe the algorithm for finding keys in and adding keys to a trie
+* Compare the time to find a key in a BST to a trie
+* Implement a trie data structure in Java
+    
 ##  Hash Maps and Edit Distance
+* Describe why hash tables are valuable
+* Describe the role of a hash function
+* Describe alternative methods for handling collisions in a Hash Table
+* Identify other challenges associated with Hash Tables
+* Explain the difference between a Hash Set and a Hash Map
+* Describe a detailed algorithm for generating spelling suggestions for misspelled words
+* Define the notion of edit distance
+* Describe a naïve algorithm for calculating the edit distance between two strings
+* Describe how pruning can be used to reduce the problem space
