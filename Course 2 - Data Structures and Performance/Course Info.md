@@ -18,6 +18,27 @@
 * Use regular expressions to split strings
 
 ## Efficiency Analysis and Benchmarking
+* Explain why the performance of an algorithm is important
+* Describe some factors that impact the performance of an algorithm
+* Explain why asymptotic analysis is useful
+* Calculate the big-O class of a code snippet
+* Combine the runtimes of smaller code snippets to analyze the performance of more complicated code
+* Compute the big-O class of code with nested loops
+* Analyze the performance of selection sort
+* Define worst case, average case, and best case performance and describe why each of these is used
+* State and justify the asymptotic performance for linear search, binary search, selection sort, and insertion sort in the best case and in the worst case
+* Describe the merge sort algorithm
+* Explain the use of recursion in merge sort
+* Use asymptotic analysis to compare merge sort with selection sort and with insertion sort
+* State the best, worst, and average case performance for insertion sort, selection sort, merge sort, and quick sort
+* Evaluate situations in which different sorting algorithms are appropriate
+* Organize big-O classes according to rate of growth
+* Avoid some common pitfalls in asymptotic analysis
+* Explain the role of benchmarking in computer science
+* Identify components of real systems which impact execution time
+* Use Java timing libraries to measure execution time
+* Use runtimes from a real system to reason about performance
+
 ## Interfaces, Linked Lists vs. Arrays, and Correctness
 ## Trees! (including Binary Search Trees and Tries)
 ##  Hash Maps and Edit Distance
